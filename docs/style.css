@@ -1,6 +1,6 @@
 body{
 margin:0;
-background:#de7743;
+background:#de2121;
 font-family:sans-serif;
 font-size:20px;
 }
@@ -9,7 +9,7 @@ box-sizing:border-box;
 }
 a, a:hover, a:visited{
 text-decoration:none;
-color:#de7743;
+color:#de2121;
 }
 h2{
 font-size:1em;
